@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ifeanyi Iheme</h1>
 <h3 align="center">A frontend web developer</h3>
-<img style="border-radius:50px" align="right" width="400" src="https://images.pexels.com/photos/1097456/pexels-photo-1097456.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="coding">
+<img style="border-radius:50px" align="right" width="400" src="https://www.iconsdb.com/icons/preview/orange/code-xxl.png" alt="coding">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ifeanyihm&label=Profile%20views&color=0e75b6&style=flat" alt="ifeanyihm" /> </p>
