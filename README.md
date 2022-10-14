@@ -1,4 +1,4 @@
-<img align="right" width="600" src="https://https://c4.wallpaperflare.com/wallpaper/435/542/549/javascript-google-node-js-html-microsoft-visual-studio-hd-wallpaper-preview.jpg" alt="coding">
+
 <h1 align="center">Hi 👋, I'm Ifeanyi Iheme</h1>
 <h3 align="center">A frontend web developer</h3>
 <img align="right" width="400" src="https://www.doctype.se/wp-content/uploads/2017/11/icon_code_large.png" alt="coding">
