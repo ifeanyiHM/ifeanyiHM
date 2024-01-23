@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React JS**
 
-- 📫 How to reach me **iheme.ifeanyi@yahoo.com**
+- 📫 How to reach me **ifeanyihm@gmail.com**
 
 - ⚡ Fun fact **I arrange and direct music.**
 
